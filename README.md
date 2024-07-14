@@ -1,12 +1,11 @@
 # Recycon
 
-Website dengan tema E-Commerce berbasis Laravel untuk memenuhi permintaan klien dalam menyelesaikan tugas di perkuliahan.
+Recycon is a Mini E-Commerce website with the Laravel framework. This website was created at the client's request. This website broadly displays CRUD, authentication and middleware functions.
 
 
 ## Authors
 
 - [@paley777](https://github.com/paley777)
-- Klien yang dirahasiakan
 
 
 ## Tech Stack
